@@ -9,7 +9,7 @@
     <h1> Ola </h1>
 
     <?php
-        echo "sarah";
+        include 'src/main.php'
     ?>
 
 </body>
